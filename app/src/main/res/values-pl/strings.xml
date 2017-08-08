@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lunch menu</string>
+    <string name="today">Dzisiaj</string>
+    <string name="closed">Zamknięte</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_refresh">Odswież</string>
+    <string name="loading">pobieranie danych…</string>
+    <string name="add_widget">Zapisz</string>
+    <string name="appwidget_text">ALMA</string>
+    <string name="configure">Wybierz Alme</string>
+    <string name="errorOneAlmaSelected">Co najmniej jeden element ma być wybrane</string>
+    <string name="labelSettings">Ustawienia</string>
+    <string name="select_alma_s">Wybierz Almy</string>
+    <string name="swipe_to_change_the_order">Naciśnij i przesuń palcem, aby zmienić kolejność</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lunch menu</string>
+    <string name="action_refresh">Verversen</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="closed">Gesloten</string>
+    <string name="today">Vandaag</string>
+    <string name="loading">data ophalen…</string>
+    <string name="add_widget">Save</string>
+    <string name="appwidget_text">ALMA</string>
+    <string name="configure">Select ALMA</string>
+    <string name="errorOneAlmaSelected">Ten minste één element moet worden geselecteerd</string>
+    <string name="labelSettings">Instellingen</string>
+    <string name="select_alma_s">Selecteer ALMA\'s</string>
+    <string name="swipe_to_change_the_order">Druk op en vegen om de volgorde te wijzigen</string>
+</resources>

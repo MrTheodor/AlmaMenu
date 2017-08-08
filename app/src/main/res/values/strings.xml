@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lunch menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="today">Today</string>
+    <string name="closed">Closed</string>
+    <string name="loading">fetching data…</string>
+    <string name="appwidget_text">ALMA</string>
+    <string name="configure">Select ALMA</string>
+    <string name="add_widget">Save</string>
+    <string name="errorOneAlmaSelected">At least one element has to be selected</string>
+    <string name="labelSettings">Settings</string>
+    <string name="select_alma_s">Select ALMA\'s</string>
+    <string name="swipe_to_change_the_order">Press and swipe to change the order</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:padding="10dp"
+    >
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="14sp"
+        android:layout_weight="1.0"
+        android:fontFamily="sans-serif"
+        android:typeface="sans"
+        android:lineSpacingExtra="10sp"
+        android:textAlignment="viewStart" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_vegetarian_food_100"
+        android:id="@+id/vegetarianImage"
+        android:layout_weight="0.1" />
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="5dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:layout_weight="0.2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Caption" />
+
+</LinearLayout>
